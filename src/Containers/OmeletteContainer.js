@@ -5,7 +5,7 @@ class OmeletteContainer extends React.Component {
 
 
     allOmelettes = () => {
-        return this.props.allOmelettes.map(omelette => {
+        return this.props.allOmelettes().map(omelette => {
             return <OmeletteCard key={omelette.id} omObj={omelette} incrementCounter={this.props.incrementCounter} />
         })
     }
