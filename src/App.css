@@ -1,3 +1,58 @@
+#root{
+  display: flex;
+}
+
+
+ul {
+  text-align: left;
+  justify-content: left;
+}
+
+.index{
+  max-width: 50vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  overflow-y: visible;
+  flex-direction: row;
+  text-align-last: center;
+  justify-content: space-around;
+}
+
+
+.image {
+  height: 250px;
+  width: 240px;
+}
+
+.card {
+  border: black 4px;
+  border-style: solid;
+  margin: 10%;
+  text-align: center;
+  padding: 5%;
+}
+
+.wanttomake{
+  display: flex;
+  max-width: 50vw;
+  flex-direction: column;
+  align-items: center;
+}
+
+.made{
+  display: flex;
+  max-width: 50vw;
+  flex-direction: column;
+  align-items: center;
+}
+
+
 .App {
   text-align: center;
 }

@@ -1,0 +1,65 @@
+{"omelettes": [
+    {  
+      "id": 1,
+      "title": "Vegetable-Pasta Oven Omelet",
+      "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=520763",
+      "ingredients": "tomato, onions, red pepper, garlic, olive oil, zucchini, cream cheese, vermicelli, eggs, parmesan cheese, milk, italian seasoning, salt, black pepper",
+      "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-how-to-make-an-omelette-horizontal-1542310072.png"
+    },
+    {
+        "id": 2,
+      "title": "Roasted Pepper and Bacon Omelet",
+      "href": "http://www.bigoven.com/43919-Roasted-Pepper-and-Bacon-Omelet-recipe.html",
+      "ingredients": "eggs, salt, black pepper, butter, bacon, onions, garlic, roasted red peppers, oregano",
+      "thumbnail": "https://www.simplyrecipes.com/wp-content/uploads/2018/10/HT-Make-an-Omelet-LEAD-VERTICAL.jpg"
+    },
+    {
+        "id": 3,
+      "title": "Broccoli Oven Omelet Recipe",
+      "href": "http://cookeatshare.com/recipes/broccoli-oven-omelet-92851",
+      "ingredients": "eggs, broccoli, onions, parmesan cheese, lowfat milk, salt, basil, garlic, tomato, parmesan cheese",
+      "thumbnail": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2Farchive%2Fa96820e2c323d5a03bb1ee6bd9b86fefda7ce18d"
+    },
+    {
+        "id": 4,
+      "title": "Eggplant Omelet with Coriander And Caraway",
+      "href": "http://www.bigoven.com/143831-Eggplant-Omelet-with-Coriander-And-Caraway-recipe.html",
+      "ingredients": "eggplant, olive oil, onions, garlic, egg, caraway seed, coriander, salt, black pepper, lemon",
+      "thumbnail": "https://ichef.bbci.co.uk/food/ic/food_16x9_832/recipes/cheeseomelette_80621_16x9.jpg"
+    },
+    {
+        "id": 5,
+      "title": "Broccoli and Cheese Omelet",
+      "href": "http://www.bigoven.com/45151-Broccoli-and-Cheese-Omelet-recipe.html",
+      "ingredients": "onions, garlic, chicken broth, cottage cheese, oregano, black pepper, egg substitute, bread, mozzarella cheese, butter",
+      "thumbnail": "https://www.recipetineats.com/wp-content/uploads/2017/09/Omelette-with-Mushrooms_0-2.jpg?w=500&h=500&crop=1"
+    },
+    {
+        "id": 6,
+      "title": "Chard And Onion Omelet",
+      "href": "http://www.bigoven.com/149383-Chard-And-Onion-Omelet-recipe.html",
+      "ingredients": "olive oil, onions, leaves, garlic, eggs, parsley, basil, thyme, gruyere cheese, parmesan cheese",
+      "thumbnail": "https://www.olivetomato.com/wp-content/uploads/2019/11/SAM4952-1-500x500.jpg"
+    },
+    {
+        "id": 7,
+      "title": "Picnic Omelet Squares Recipe",
+      "href": "http://www.cdkitchen.com/recipes/recs/2184/Picnic-Omelet-Squares99498.shtml",
+      "ingredients": "eggs, garlic, parmesan cheese, olive oil, onions, peas, potato, red pepper, salt, tomato, zucchini",
+      "thumbnail": "https://hurrythefoodup.com/wp-content/uploads/2017/03/Tomato-Omelette-7.jpg"
+    },
+    {
+        "id": 8,
+      "title": "Spanish Omelet",
+      "href": "http://www.cooks.com/rec/view/0,185,153160-249194,00.html",
+      "ingredients": "vegetable oil, green pepper, onions, water, milk, eggs, black pepper, mushroom, garlic, salt, chili powder",
+      "thumbnail": "https://i2.wp.com/carolinescooking.com/wp-content/uploads/2020/09/masala-omelette-photo.jpg"
+    },
+    {
+        "id": 9,
+      "title": "Onion and Fresh Herb Omelet with Mixed Greens",
+      "href": "http://find.myrecipes.com/recipes/recipefinder.dyn?action=displayRecipe&recipe_id=1622444",
+      "ingredients": "egg substitute, milk, parsley, thyme, salt, black pepper, eggs, flour, nonstick cooking spray, onions, garlic, salad greens, salad greens, red wine vinegar, olive oil, goat cheese, almonds",
+      "thumbnail": "https://res.cloudinary.com/paleoleap/image/upload/f_auto,q_70/v1519811569/j-paleo/chorizo-spinach-omelette-main.jpg"
+    }
+  ]}
