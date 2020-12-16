@@ -8,6 +8,7 @@ class App extends React.Component {
 
   state = {
     omelettes: [],
+    counter: 0
   }
 
   componentDidMount() {
@@ -16,12 +17,16 @@ class App extends React.Component {
       .then(omelettes => this.setState({omelettes: omelettes}))
   }
 
+  incrementCounter = () => {
+    this.setState((prevState) => ({counter: prevState.counter +1}))
+  }
+
   
   render () {
     return (
       <div className="container">
-        <Counter />
-        <OmeletteContainer allOmelettes={this.state.omelettes} handleWant={this.handleWant} wantBeenClicked={this.state.wantBeenClicked} handleMadeClick={this.handleMadeClick} />
+        <Counter counter={this.state.counter}/>
+        <OmeletteContainer allOmelettes={this.state.omelettes} incrementCounter={this.incrementCounter} />
       </div>
     );
   }

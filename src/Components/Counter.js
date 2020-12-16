@@ -1,9 +1,9 @@
 import React from 'react'
 
-function Counter () {
+function Counter (props) {
 
     return (
-        <h1>Counter</h1>
+    <h1>{props.counter} Clicks</h1>
     )
 }
 

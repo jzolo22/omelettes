@@ -2,19 +2,15 @@ import React from 'react'
 
 class OmeletteCard extends React.Component {
 
-    state ={
-        wantBeenClicked: false
-    }
+    // state ={
+    //     wantBeenClicked: false
+    // }
 
 
-    localHandleWantClick = () => {
-        this.props.handleWant(this.props.omObj)
-        this.setState({wantBeenClicked: true})
+    localHandleLikeClick = () => {
+        this.props.incrementCounter()
     }
 
-    localHandleMadeClick = () => {
-        this.props.handleMadeClick(this.props.omObj)
-    }
 
     render() {
         return (
@@ -22,7 +18,7 @@ class OmeletteCard extends React.Component {
                 <h4>{this.props.omObj.title}</h4>
                 <img className="image" src={this.props.omObj.thumbnail} alt={this.props.omObj.title} />
                 <br></br>
-                <button onClick={this.localHandleWantClick}>Like</button>
+                <button onClick={this.localHandleLikeClick}>Like</button>
                 
             </div>
         )
